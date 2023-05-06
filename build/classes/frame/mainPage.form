@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jTabbedPane5" alignment="1" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Component id="jTabbedPane5" alignment="1" max="32767" attributes="0"/>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JTabbedPane" name="jTabbedPane5">
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout"/>
+      <SubComponents>
+        <Container class="javax.swing.JPanel" name="jPanel1">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="STAT&#x130;K VER&#x130; SORGULAMA">
+                <Property name="tabTitle" type="java.lang.String" value="STAT&#x130;K VER&#x130; SORGULAMA"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="874" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="469" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel2">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="D&#x130;NAM&#x130;K VER&#x130; SORGULAMA">
+                <Property name="tabTitle" type="java.lang.String" value="D&#x130;NAM&#x130;K VER&#x130; SORGULAMA"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="874" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <EmptySpace min="0" pref="469" max="32767" attributes="0"/>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+        </Container>
+        <Container class="javax.swing.JPanel" name="jPanel3">
+          <Constraints>
+            <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout" value="org.netbeans.modules.form.compat2.layouts.support.JTabbedPaneSupportLayout$JTabbedPaneConstraintsDescription">
+              <JTabbedPaneConstraints tabName="KARAR A&#x11e;ACI OLU&#x15e;TURMA">
+                <Property name="tabTitle" type="java.lang.String" value="KARAR A&#x11e;ACI OLU&#x15e;TURMA"/>
+              </JTabbedPaneConstraints>
+            </Constraint>
+          </Constraints>
+
+          <Layout>
+            <DimensionLayout dim="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <Component id="combobox1" min="-2" pref="390" max="-2" attributes="0"/>
+                                      <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+                                      <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                                  <Component id="combobox2" alignment="0" min="-2" pref="390" max="-2" attributes="0"/>
+                                  <Component id="combobox3" alignment="0" min="-2" pref="390" max="-2" attributes="0"/>
+                                  <Component id="combobox4" alignment="0" min="-2" pref="390" max="-2" attributes="0"/>
+                              </Group>
+                              <EmptySpace max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <Group type="103" groupAlignment="0" attributes="0">
+                                  <Component id="combobox5" min="-2" pref="390" max="-2" attributes="0"/>
+                                  <Group type="102" alignment="0" attributes="0">
+                                      <EmptySpace min="-2" pref="9" max="-2" attributes="0"/>
+                                      <Component id="buttonRun" min="-2" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <EmptySpace min="-2" pref="51" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="labelDeger" min="-2" max="-2" attributes="0"/>
+                          <Component id="comboDeger1" min="-2" pref="340" max="-2" attributes="0"/>
+                          <Component id="comboDeger2" min="-2" pref="340" max="-2" attributes="0"/>
+                          <Component id="comboDeger3" min="-2" pref="340" max="-2" attributes="0"/>
+                          <Component id="comboDeger4" min="-2" pref="340" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="81" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+            <DimensionLayout dim="1">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="combobox1" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="comboDeger1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="combobox2" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="comboDeger2" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="combobox3" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="comboDeger3" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="combobox4" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="comboDeger4" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="combobox5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="labelDeger" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace min="-2" pref="37" max="-2" attributes="0"/>
+                      <Component id="buttonRun" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace pref="209" max="32767" attributes="0"/>
+                  </Group>
+              </Group>
+            </DimensionLayout>
+          </Layout>
+          <SubComponents>
+            <Component class="javax.swing.JComboBox" name="combobox2">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="45">
+                    <StringItem index="0" value="B&#xf6;lge Ad&#x131;"/>
+                    <StringItem index="1" value="&#x15e;ube Ad&#x131;"/>
+                    <StringItem index="2" value="M&#xfc;&#x15f;teri Profili"/>
+                    <StringItem index="3" value="Sekt&#xf6;r Kodu"/>
+                    <StringItem index="4" value="Sekt&#xf6;r Ad&#x131;"/>
+                    <StringItem index="5" value="M&#xfc;&#x15f;teri Segment Ad&#x131;"/>
+                    <StringItem index="6" value="Rating Notu"/>
+                    <StringItem index="7" value="borca d&#xfc;&#x15f;me olas&#x131;l&#x131;&#x11f;&#x131;"/>
+                    <StringItem index="8" value="Rating Ge&#xe7;erlilik Tarihi"/>
+                    <StringItem index="9" value="Karar Tarihi"/>
+                    <StringItem index="10" value="vergi toplam"/>
+                    <StringItem index="11" value="Toplam Limiti"/>
+                    <StringItem index="12" value="Limiti Blokeli mi?"/>
+                    <StringItem index="13" value="Nakdi Toplam Risk"/>
+                    <StringItem index="14" value="Kurumsal Gayrinakdi Toplam Ana Para Risk (TL)"/>
+                    <StringItem index="15" value="Bireysel ve Kurumsal ve Kredi Kart&#x131; Risk Toplam (TL)"/>
+                    <StringItem index="16" value="Kurumsal Toplam Risk (TL)"/>
+                    <StringItem index="17" value="Bireysel Toplam Risk (TL)"/>
+                    <StringItem index="18" value="Kredi Kart&#x131; Toplam Risk (TL)"/>
+                    <StringItem index="19" value="Kart Borcu &#xd6;dene Gecikme G&#xfc;n (Son 1 Y&#x131;l)"/>
+                    <StringItem index="20" value="Kart Borcu Gecikme Tutar&#x131; (TL)"/>
+                    <StringItem index="21" value="Toplam Tahsilat (Son 1 Y&#x131;l ) (TL)"/>
+                    <StringItem index="22" value="Max Gecikme G&#xfc;n (Son 1 Y&#x131;l)"/>
+                    <StringItem index="23" value="Toplam Tahsilat (Son 1 Ay ) (TL)"/>
+                    <StringItem index="24" value="Son D&#xf6;nem &#xd6;denmemi&#x15f; Kredi Limit"/>
+                    <StringItem index="25" value="&#xd6;nceki D&#xf6;nem &#xd6;denmemi&#x15f; Kredi Limit"/>
+                    <StringItem index="26" value="Son D&#xf6;nem Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="27" value="Bir &#xd6;nceki D&#xf6;nem RiskToplam&#x131; (TL)"/>
+                    <StringItem index="28" value="Bir &#xd6;nceki D&#xf6;nem Vergi Borcu Toplam&#x131; (TL)"/>
+                    <StringItem index="29" value="Son D&#xf6;nem Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="30" value="Bir &#xd6;nceki D&#xf6;nem Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="31" value="Son D&#xf6;nem Gayri Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="32" value="Bir &#xd6;nceki D&#xf6;nem Gayri Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="33" value="Son D&#xf6;nem Limit Doluluk Oran&#x131;"/>
+                    <StringItem index="34" value="Bir &#xd6;nceki D&#xf6;nem Limit Doluluk Oran&#x131;"/>
+                    <StringItem index="35" value="Teminata Verdi&#x11f;i &#xc7;ek TL"/>
+                    <StringItem index="36" value="Teminata Verdi&#x11f;i &#xc7;ek Sonu&#xe7;"/>
+                    <StringItem index="37" value="Teminata Al&#x131;nm&#x131;&#x15f; &#xc7;eklerin Tahsil Oran&#x131;"/>
+                    <StringItem index="38" value="1 Y&#x131;l &#xd6;ncesi Kar&#x15f;&#x131;l&#x131;ks&#x131;z &#xc7;ek Kayd&#x131; Var m&#x131;? (Olumsuzluk)"/>
+                    <StringItem index="39" value="1 Y&#x131;l &#xd6;ncesi &#x130;cra Kayd&#x131; Var m&#x131;? (Olumsuzluk)"/>
+                    <StringItem index="40" value="bu Y&#x131;l Kar&#x15f;&#x131;l&#x131;ks&#x131;z &#xc7;ek Kayd&#x131; Var m&#x131;? (Olumsuzluk)"/>
+                    <StringItem index="41" value="Erken Uyar&#x131; Notu Var m&#x131;?"/>
+                    <StringItem index="42" value="Grup Ekren Uyar&#x131; Notu Var m&#x131;?"/>
+                    <StringItem index="43" value="M&#xfc;&#x15f;teri No"/>
+                    <StringItem index="44" value="Uzman De&#x11f;erlendirmesi"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="itemStateChanged" listener="java.awt.event.ItemListener" parameters="java.awt.event.ItemEvent" handler="combobox2ItemStateChanged"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="combobox3">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="45">
+                    <StringItem index="0" value="B&#xf6;lge Ad&#x131;"/>
+                    <StringItem index="1" value="&#x15e;ube Ad&#x131;"/>
+                    <StringItem index="2" value="M&#xfc;&#x15f;teri Profili"/>
+                    <StringItem index="3" value="Sekt&#xf6;r Kodu"/>
+                    <StringItem index="4" value="Sekt&#xf6;r Ad&#x131;"/>
+                    <StringItem index="5" value="M&#xfc;&#x15f;teri Segment Ad&#x131;"/>
+                    <StringItem index="6" value="Rating Notu"/>
+                    <StringItem index="7" value="borca d&#xfc;&#x15f;me olas&#x131;l&#x131;&#x11f;&#x131;"/>
+                    <StringItem index="8" value="Rating Ge&#xe7;erlilik Tarihi"/>
+                    <StringItem index="9" value="Karar Tarihi"/>
+                    <StringItem index="10" value="vergi toplam"/>
+                    <StringItem index="11" value="Toplam Limiti"/>
+                    <StringItem index="12" value="Limiti Blokeli mi?"/>
+                    <StringItem index="13" value="Nakdi Toplam Risk"/>
+                    <StringItem index="14" value="Kurumsal Gayrinakdi Toplam Ana Para Risk (TL)"/>
+                    <StringItem index="15" value="Bireysel ve Kurumsal ve Kredi Kart&#x131; Risk Toplam (TL)"/>
+                    <StringItem index="16" value="Kurumsal Toplam Risk (TL)"/>
+                    <StringItem index="17" value="Bireysel Toplam Risk (TL)"/>
+                    <StringItem index="18" value="Kredi Kart&#x131; Toplam Risk (TL)"/>
+                    <StringItem index="19" value="Kart Borcu &#xd6;dene Gecikme G&#xfc;n (Son 1 Y&#x131;l)"/>
+                    <StringItem index="20" value="Kart Borcu Gecikme Tutar&#x131; (TL)"/>
+                    <StringItem index="21" value="Toplam Tahsilat (Son 1 Y&#x131;l ) (TL)"/>
+                    <StringItem index="22" value="Max Gecikme G&#xfc;n (Son 1 Y&#x131;l)"/>
+                    <StringItem index="23" value="Toplam Tahsilat (Son 1 Ay ) (TL)"/>
+                    <StringItem index="24" value="Son D&#xf6;nem &#xd6;denmemi&#x15f; Kredi Limit"/>
+                    <StringItem index="25" value="&#xd6;nceki D&#xf6;nem &#xd6;denmemi&#x15f; Kredi Limit"/>
+                    <StringItem index="26" value="Son D&#xf6;nem Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="27" value="Bir &#xd6;nceki D&#xf6;nem RiskToplam&#x131; (TL)"/>
+                    <StringItem index="28" value="Bir &#xd6;nceki D&#xf6;nem Vergi Borcu Toplam&#x131; (TL)"/>
+                    <StringItem index="29" value="Son D&#xf6;nem Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="30" value="Bir &#xd6;nceki D&#xf6;nem Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="31" value="Son D&#xf6;nem Gayri Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="32" value="Bir &#xd6;nceki D&#xf6;nem Gayri Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="33" value="Son D&#xf6;nem Limit Doluluk Oran&#x131;"/>
+                    <StringItem index="34" value="Bir &#xd6;nceki D&#xf6;nem Limit Doluluk Oran&#x131;"/>
+                    <StringItem index="35" value="Teminata Verdi&#x11f;i &#xc7;ek TL"/>
+                    <StringItem index="36" value="Teminata Verdi&#x11f;i &#xc7;ek Sonu&#xe7;"/>
+                    <StringItem index="37" value="Teminata Al&#x131;nm&#x131;&#x15f; &#xc7;eklerin Tahsil Oran&#x131;"/>
+                    <StringItem index="38" value="1 Y&#x131;l &#xd6;ncesi Kar&#x15f;&#x131;l&#x131;ks&#x131;z &#xc7;ek Kayd&#x131; Var m&#x131;? (Olumsuzluk)"/>
+                    <StringItem index="39" value="1 Y&#x131;l &#xd6;ncesi &#x130;cra Kayd&#x131; Var m&#x131;? (Olumsuzluk)"/>
+                    <StringItem index="40" value="bu Y&#x131;l Kar&#x15f;&#x131;l&#x131;ks&#x131;z &#xc7;ek Kayd&#x131; Var m&#x131;? (Olumsuzluk)"/>
+                    <StringItem index="41" value="Erken Uyar&#x131; Notu Var m&#x131;?"/>
+                    <StringItem index="42" value="Grup Ekren Uyar&#x131; Notu Var m&#x131;?"/>
+                    <StringItem index="43" value="M&#xfc;&#x15f;teri No"/>
+                    <StringItem index="44" value="Uzman De&#x11f;erlendirmesi"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="itemStateChanged" listener="java.awt.event.ItemListener" parameters="java.awt.event.ItemEvent" handler="combobox3ItemStateChanged"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="combobox5">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="45">
+                    <StringItem index="0" value="B&#xf6;lge Ad&#x131;"/>
+                    <StringItem index="1" value="&#x15e;ube Ad&#x131;"/>
+                    <StringItem index="2" value="M&#xfc;&#x15f;teri Profili"/>
+                    <StringItem index="3" value="Sekt&#xf6;r Kodu"/>
+                    <StringItem index="4" value="Sekt&#xf6;r Ad&#x131;"/>
+                    <StringItem index="5" value="M&#xfc;&#x15f;teri Segment Ad&#x131;"/>
+                    <StringItem index="6" value="Rating Notu"/>
+                    <StringItem index="7" value="borca d&#xfc;&#x15f;me olas&#x131;l&#x131;&#x11f;&#x131;"/>
+                    <StringItem index="8" value="Rating Ge&#xe7;erlilik Tarihi"/>
+                    <StringItem index="9" value="Karar Tarihi"/>
+                    <StringItem index="10" value="vergi toplam"/>
+                    <StringItem index="11" value="Toplam Limiti"/>
+                    <StringItem index="12" value="Limiti Blokeli mi?"/>
+                    <StringItem index="13" value="Nakdi Toplam Risk"/>
+                    <StringItem index="14" value="Kurumsal Gayrinakdi Toplam Ana Para Risk (TL)"/>
+                    <StringItem index="15" value="Bireysel ve Kurumsal ve Kredi Kart&#x131; Risk Toplam (TL)"/>
+                    <StringItem index="16" value="Kurumsal Toplam Risk (TL)"/>
+                    <StringItem index="17" value="Bireysel Toplam Risk (TL)"/>
+                    <StringItem index="18" value="Kredi Kart&#x131; Toplam Risk (TL)"/>
+                    <StringItem index="19" value="Kart Borcu &#xd6;dene Gecikme G&#xfc;n (Son 1 Y&#x131;l)"/>
+                    <StringItem index="20" value="Kart Borcu Gecikme Tutar&#x131; (TL)"/>
+                    <StringItem index="21" value="Toplam Tahsilat (Son 1 Y&#x131;l ) (TL)"/>
+                    <StringItem index="22" value="Max Gecikme G&#xfc;n (Son 1 Y&#x131;l)"/>
+                    <StringItem index="23" value="Toplam Tahsilat (Son 1 Ay ) (TL)"/>
+                    <StringItem index="24" value="Son D&#xf6;nem &#xd6;denmemi&#x15f; Kredi Limit"/>
+                    <StringItem index="25" value="&#xd6;nceki D&#xf6;nem &#xd6;denmemi&#x15f; Kredi Limit"/>
+                    <StringItem index="26" value="Son D&#xf6;nem Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="27" value="Bir &#xd6;nceki D&#xf6;nem RiskToplam&#x131; (TL)"/>
+                    <StringItem index="28" value="Bir &#xd6;nceki D&#xf6;nem Vergi Borcu Toplam&#x131; (TL)"/>
+                    <StringItem index="29" value="Son D&#xf6;nem Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="30" value="Bir &#xd6;nceki D&#xf6;nem Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="31" value="Son D&#xf6;nem Gayri Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="32" value="Bir &#xd6;nceki D&#xf6;nem Gayri Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="33" value="Son D&#xf6;nem Limit Doluluk Oran&#x131;"/>
+                    <StringItem index="34" value="Bir &#xd6;nceki D&#xf6;nem Limit Doluluk Oran&#x131;"/>
+                    <StringItem index="35" value="Teminata Verdi&#x11f;i &#xc7;ek TL"/>
+                    <StringItem index="36" value="Teminata Verdi&#x11f;i &#xc7;ek Sonu&#xe7;"/>
+                    <StringItem index="37" value="Teminata Al&#x131;nm&#x131;&#x15f; &#xc7;eklerin Tahsil Oran&#x131;"/>
+                    <StringItem index="38" value="1 Y&#x131;l &#xd6;ncesi Kar&#x15f;&#x131;l&#x131;ks&#x131;z &#xc7;ek Kayd&#x131; Var m&#x131;? (Olumsuzluk)"/>
+                    <StringItem index="39" value="1 Y&#x131;l &#xd6;ncesi &#x130;cra Kayd&#x131; Var m&#x131;? (Olumsuzluk)"/>
+                    <StringItem index="40" value="bu Y&#x131;l Kar&#x15f;&#x131;l&#x131;ks&#x131;z &#xc7;ek Kayd&#x131; Var m&#x131;? (Olumsuzluk)"/>
+                    <StringItem index="41" value="Erken Uyar&#x131; Notu Var m&#x131;?"/>
+                    <StringItem index="42" value="Grup Ekren Uyar&#x131; Notu Var m&#x131;?"/>
+                    <StringItem index="43" value="M&#xfc;&#x15f;teri No"/>
+                    <StringItem index="44" value="Uzman De&#x11f;erlendirmesi"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="combobox1">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="45">
+                    <StringItem index="0" value="B&#xf6;lge Ad&#x131;"/>
+                    <StringItem index="1" value="&#x15e;ube Ad&#x131;"/>
+                    <StringItem index="2" value="M&#xfc;&#x15f;teri Profili"/>
+                    <StringItem index="3" value="Sekt&#xf6;r Kodu"/>
+                    <StringItem index="4" value="Sekt&#xf6;r Ad&#x131;"/>
+                    <StringItem index="5" value="M&#xfc;&#x15f;teri Segment Ad&#x131;"/>
+                    <StringItem index="6" value="Rating Notu"/>
+                    <StringItem index="7" value="borca d&#xfc;&#x15f;me olas&#x131;l&#x131;&#x11f;&#x131;"/>
+                    <StringItem index="8" value="Rating Ge&#xe7;erlilik Tarihi"/>
+                    <StringItem index="9" value="Karar Tarihi"/>
+                    <StringItem index="10" value="vergi toplam"/>
+                    <StringItem index="11" value="Toplam Limiti"/>
+                    <StringItem index="12" value="Limiti Blokeli mi?"/>
+                    <StringItem index="13" value="Nakdi Toplam Risk"/>
+                    <StringItem index="14" value="Kurumsal Gayrinakdi Toplam Ana Para Risk (TL)"/>
+                    <StringItem index="15" value="Bireysel ve Kurumsal ve Kredi Kart&#x131; Risk Toplam (TL)"/>
+                    <StringItem index="16" value="Kurumsal Toplam Risk (TL)"/>
+                    <StringItem index="17" value="Bireysel Toplam Risk (TL)"/>
+                    <StringItem index="18" value="Kredi Kart&#x131; Toplam Risk (TL)"/>
+                    <StringItem index="19" value="Kart Borcu &#xd6;dene Gecikme G&#xfc;n (Son 1 Y&#x131;l)"/>
+                    <StringItem index="20" value="Kart Borcu Gecikme Tutar&#x131; (TL)"/>
+                    <StringItem index="21" value="Toplam Tahsilat (Son 1 Y&#x131;l ) (TL)"/>
+                    <StringItem index="22" value="Max Gecikme G&#xfc;n (Son 1 Y&#x131;l)"/>
+                    <StringItem index="23" value="Toplam Tahsilat (Son 1 Ay ) (TL)"/>
+                    <StringItem index="24" value="Son D&#xf6;nem &#xd6;denmemi&#x15f; Kredi Limit"/>
+                    <StringItem index="25" value="&#xd6;nceki D&#xf6;nem &#xd6;denmemi&#x15f; Kredi Limit"/>
+                    <StringItem index="26" value="Son D&#xf6;nem Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="27" value="Bir &#xd6;nceki D&#xf6;nem RiskToplam&#x131; (TL)"/>
+                    <StringItem index="28" value="Bir &#xd6;nceki D&#xf6;nem Vergi Borcu Toplam&#x131; (TL)"/>
+                    <StringItem index="29" value="Son D&#xf6;nem Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="30" value="Bir &#xd6;nceki D&#xf6;nem Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="31" value="Son D&#xf6;nem Gayri Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="32" value="Bir &#xd6;nceki D&#xf6;nem Gayri Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="33" value="Son D&#xf6;nem Limit Doluluk Oran&#x131;"/>
+                    <StringItem index="34" value="Bir &#xd6;nceki D&#xf6;nem Limit Doluluk Oran&#x131;"/>
+                    <StringItem index="35" value="Teminata Verdi&#x11f;i &#xc7;ek TL"/>
+                    <StringItem index="36" value="Teminata Verdi&#x11f;i &#xc7;ek Sonu&#xe7;"/>
+                    <StringItem index="37" value="Teminata Al&#x131;nm&#x131;&#x15f; &#xc7;eklerin Tahsil Oran&#x131;"/>
+                    <StringItem index="38" value="1 Y&#x131;l &#xd6;ncesi Kar&#x15f;&#x131;l&#x131;ks&#x131;z &#xc7;ek Kayd&#x131; Var m&#x131;? (Olumsuzluk)"/>
+                    <StringItem index="39" value="1 Y&#x131;l &#xd6;ncesi &#x130;cra Kayd&#x131; Var m&#x131;? (Olumsuzluk)"/>
+                    <StringItem index="40" value="bu Y&#x131;l Kar&#x15f;&#x131;l&#x131;ks&#x131;z &#xc7;ek Kayd&#x131; Var m&#x131;? (Olumsuzluk)"/>
+                    <StringItem index="41" value="Erken Uyar&#x131; Notu Var m&#x131;?"/>
+                    <StringItem index="42" value="Grup Ekren Uyar&#x131; Notu Var m&#x131;?"/>
+                    <StringItem index="43" value="M&#xfc;&#x15f;teri No"/>
+                    <StringItem index="44" value="Uzman De&#x11f;erlendirmesi"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="itemStateChanged" listener="java.awt.event.ItemListener" parameters="java.awt.event.ItemEvent" handler="combobox1ItemStateChanged"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="combobox1ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="combobox4">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="45">
+                    <StringItem index="0" value="B&#xf6;lge Ad&#x131;"/>
+                    <StringItem index="1" value="&#x15e;ube Ad&#x131;"/>
+                    <StringItem index="2" value="M&#xfc;&#x15f;teri Profili"/>
+                    <StringItem index="3" value="Sekt&#xf6;r Kodu"/>
+                    <StringItem index="4" value="Sekt&#xf6;r Ad&#x131;"/>
+                    <StringItem index="5" value="M&#xfc;&#x15f;teri Segment Ad&#x131;"/>
+                    <StringItem index="6" value="Rating Notu"/>
+                    <StringItem index="7" value="borca d&#xfc;&#x15f;me olas&#x131;l&#x131;&#x11f;&#x131;"/>
+                    <StringItem index="8" value="Rating Ge&#xe7;erlilik Tarihi"/>
+                    <StringItem index="9" value="Karar Tarihi"/>
+                    <StringItem index="10" value="vergi toplam"/>
+                    <StringItem index="11" value="Toplam Limiti"/>
+                    <StringItem index="12" value="Limiti Blokeli mi?"/>
+                    <StringItem index="13" value="Nakdi Toplam Risk"/>
+                    <StringItem index="14" value="Kurumsal Gayrinakdi Toplam Ana Para Risk (TL)"/>
+                    <StringItem index="15" value="Bireysel ve Kurumsal ve Kredi Kart&#x131; Risk Toplam (TL)"/>
+                    <StringItem index="16" value="Kurumsal Toplam Risk (TL)"/>
+                    <StringItem index="17" value="Bireysel Toplam Risk (TL)"/>
+                    <StringItem index="18" value="Kredi Kart&#x131; Toplam Risk (TL)"/>
+                    <StringItem index="19" value="Kart Borcu &#xd6;dene Gecikme G&#xfc;n (Son 1 Y&#x131;l)"/>
+                    <StringItem index="20" value="Kart Borcu Gecikme Tutar&#x131; (TL)"/>
+                    <StringItem index="21" value="Toplam Tahsilat (Son 1 Y&#x131;l ) (TL)"/>
+                    <StringItem index="22" value="Max Gecikme G&#xfc;n (Son 1 Y&#x131;l)"/>
+                    <StringItem index="23" value="Toplam Tahsilat (Son 1 Ay ) (TL)"/>
+                    <StringItem index="24" value="Son D&#xf6;nem &#xd6;denmemi&#x15f; Kredi Limit"/>
+                    <StringItem index="25" value="&#xd6;nceki D&#xf6;nem &#xd6;denmemi&#x15f; Kredi Limit"/>
+                    <StringItem index="26" value="Son D&#xf6;nem Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="27" value="Bir &#xd6;nceki D&#xf6;nem RiskToplam&#x131; (TL)"/>
+                    <StringItem index="28" value="Bir &#xd6;nceki D&#xf6;nem Vergi Borcu Toplam&#x131; (TL)"/>
+                    <StringItem index="29" value="Son D&#xf6;nem Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="30" value="Bir &#xd6;nceki D&#xf6;nem Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="31" value="Son D&#xf6;nem Gayri Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="32" value="Bir &#xd6;nceki D&#xf6;nem Gayri Nakti Risk Toplam&#x131; (TL)"/>
+                    <StringItem index="33" value="Son D&#xf6;nem Limit Doluluk Oran&#x131;"/>
+                    <StringItem index="34" value="Bir &#xd6;nceki D&#xf6;nem Limit Doluluk Oran&#x131;"/>
+                    <StringItem index="35" value="Teminata Verdi&#x11f;i &#xc7;ek TL"/>
+                    <StringItem index="36" value="Teminata Verdi&#x11f;i &#xc7;ek Sonu&#xe7;"/>
+                    <StringItem index="37" value="Teminata Al&#x131;nm&#x131;&#x15f; &#xc7;eklerin Tahsil Oran&#x131;"/>
+                    <StringItem index="38" value="1 Y&#x131;l &#xd6;ncesi Kar&#x15f;&#x131;l&#x131;ks&#x131;z &#xc7;ek Kayd&#x131; Var m&#x131;? (Olumsuzluk)"/>
+                    <StringItem index="39" value="1 Y&#x131;l &#xd6;ncesi &#x130;cra Kayd&#x131; Var m&#x131;? (Olumsuzluk)"/>
+                    <StringItem index="40" value="bu Y&#x131;l Kar&#x15f;&#x131;l&#x131;ks&#x131;z &#xc7;ek Kayd&#x131; Var m&#x131;? (Olumsuzluk)"/>
+                    <StringItem index="41" value="Erken Uyar&#x131; Notu Var m&#x131;?"/>
+                    <StringItem index="42" value="Grup Ekren Uyar&#x131; Notu Var m&#x131;?"/>
+                    <StringItem index="43" value="M&#xfc;&#x15f;teri No"/>
+                    <StringItem index="44" value="Uzman De&#x11f;erlendirmesi"/>
+                  </StringArray>
+                </Property>
+              </Properties>
+              <Events>
+                <EventHandler event="itemStateChanged" listener="java.awt.event.ItemListener" parameters="java.awt.event.ItemEvent" handler="combobox4ItemStateChanged"/>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="combobox4ActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="labelDeger">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="Sonuc : "/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JButton" name="buttonRun">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="A&#x11e;ACI OLU&#x15e;TUR"/>
+              </Properties>
+              <Events>
+                <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="buttonRunActionPerformed"/>
+              </Events>
+            </Component>
+            <Component class="javax.swing.JLabel" name="jLabel1">
+              <Properties>
+                <Property name="text" type="java.lang.String" value="De&#x11f;er"/>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="comboDeger1">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="0"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="comboDeger2">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="0"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="comboDeger3">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="0"/>
+                </Property>
+              </Properties>
+            </Component>
+            <Component class="javax.swing.JComboBox" name="comboDeger4">
+              <Properties>
+                <Property name="model" type="javax.swing.ComboBoxModel" editor="org.netbeans.modules.form.editors2.ComboBoxModelEditor">
+                  <StringArray count="0"/>
+                </Property>
+              </Properties>
+            </Component>
+          </SubComponents>
+        </Container>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
